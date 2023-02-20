@@ -1,5 +1,6 @@
 #!name=TikTok-JP
 #!desc=解锁TikTok日本，搬自semporia，源自库。
+#!源自https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Surge/TiKTok-JP.sgmodule
 
 [URL Rewrite]
 
