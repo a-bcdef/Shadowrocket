@@ -1,6 +1,6 @@
 #!name=Adblock4limbo
 #!desc=毒奶去网页广告计划（稳定版02.19.2023更新），源自库。
-#!源https://github.com/limbopro/Adblock4limbo/blob/main/Adblock4limbo.sgmodule
+#!源自https://github.com/limbopro/Adblock4limbo/blob/main/Adblock4limbo.sgmodule
 
 [URL Rewrite]
 # missav 播放页弹窗
