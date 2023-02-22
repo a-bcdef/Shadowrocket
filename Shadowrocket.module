@@ -1,6 +1,7 @@
-#!name= Shadowrocketmodule
-#!url=https://raw.githubusercontent.com/chengkongyiban/shadowrocket/main/Block/LoonGalleryforShadowrocket.module
-#!商店链接https://loon-gallery.vercel.app/
+#!name=Shadowrocketmodule
+#!desc=小火箭的模块商店，源自建。
+#https://raw.githubusercontent.com/chengkongyiban/shadowrocket/main/Block/LoonGalleryforShadowrocket.module
+#商店链接https://loon-gallery.vercel.app/
 #!author=@Peng-YM @小白脸 @chengkongyiban
 #!说明：打开商店后找到想要的插件，点左边插件的头像会自动转换为火箭支持的模块，复制链接添加到火箭模块即可 也可以在链接末尾加上 . 以自动跳转火箭安装
 #!集成了QX转火箭 链接末尾加qx Surge转火箭加sg 
